@@ -1,13 +1,13 @@
 EXERCÍCIO 
-1) Crie uma pasta com o nome "exercicio2" e crie um repositório git nesta pasta
+1) Crie uma pasta com o nome "exercicio" e crie um repositório git nesta pasta
 
 2) Crie um arquivo teste.txt e adicione-o ao index
-
-5) Verifique o status do projeto
 
 3) verifique o status do projeto
 
 4) adicione o arquivo ao index
+
+5) Verifique o status do projeto
 
 6) Realize o commit
 
