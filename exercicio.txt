@@ -1,0 +1,30 @@
+EXERCÍCIO 
+1) Crie uma pasta com o nome "exercicio2" e crie um repositório git nesta pasta
+
+2) Crie um arquivo teste.txt e adicione-o ao index
+
+5) Verifique o status do projeto
+
+3) verifique o status do projeto
+
+4) adicione o arquivo ao index
+
+6) Realize o commit
+
+7) Altere o arquivo teste.txt colocando o texto "Exercicio" como conteúdo.
+
+8) Verifique o status do projeto
+
+9) Faça um diff
+
+10) Adicione ao index
+
+11) Veja novamente o diff e também o diff -cached
+
+12) Realize o commit e veja o log -- mensagem 'arquivo alterado'
+
+13) compare os 2 commits do log
+
+14) remova o arquivo teste.txt do controle de versão
+
+15) Verifique o status do projeto
