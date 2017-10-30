@@ -9,6 +9,7 @@ function showSavedUser() {
 }
 
 function limpar() {
-    $('#txt-nome').val('');
+    $('#txt-nome').val('').rer;
     $('#txt-email').val('');
+    alert('Limpado');
 }
