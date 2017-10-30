@@ -11,5 +11,5 @@ function showSavedUser() {
 function limpar() {
     $('#txt-nome').val('').rer;
     $('#txt-email').val('');
-    alert('Limpado email e nome e id');
+    alert('Limpado nome e email');
 }
